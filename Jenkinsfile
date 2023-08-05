@@ -28,7 +28,6 @@ pipeline {
         stage('Deliver') {
             steps {
                 echo "doing delivery stuff.."
-                '''
             }
         }
     }
